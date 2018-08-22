@@ -39,6 +39,7 @@ thumbs.db
 # Composer Generated #
 ######################
 vendor/
+composer.lock
 
 # Editor Generated #
 ######################
